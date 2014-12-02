@@ -1,7 +1,7 @@
 {
     "Name" : "Shared Memory",
     "ShortDescription" : "This class is a simple example of how to use QSharedMemory.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/just-a-example/zipball/18aa7767ffd8cfabfeba2472e781a53e19daf34c",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/sharedmemory/zipball/60f574bae140d81be232eacbafdd4a5aa9b7a41f",
     "Icon" : "core.png",
     "Id" : 1,
     "Tags" : "core shared memory advanced",
